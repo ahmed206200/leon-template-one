@@ -279,7 +279,7 @@ body {
 }
 @media (max-width: 1199px) {
     .image-column {
-        display: none;
+/*         display: none; */
     }
 }
 /* end services */
