@@ -277,11 +277,11 @@ body {
     width: 260px;
     height: 370px;
 }
-@media (max-width: 1199px) {
+/* @media (max-width: 1199px) {
     .image-column {
-/*         */
+        display: none;
     }
-}
+} */
 /* end services */
 /* start Portfolio */
 .Portfolio {
