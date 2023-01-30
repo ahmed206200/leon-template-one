@@ -264,12 +264,12 @@ body {
     position: relative;
 }
 .services .services-content .image::before {
-    content:"";
+    content: "";
     position: absolute;
-    right: 0;
-    color: var(--secondary-color);
     width: 100px;
-    height: calc(100% + 100px);
+    height: calc(100% + 100px );
+    background-color: var(--secondary-color);
+    right: 10px;
     top: -50px;
     z-index: -1;
 }
